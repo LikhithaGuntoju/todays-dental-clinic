@@ -1,4 +1,4 @@
-# 🦷 Today's Dental Clinic
+echo "# 🦷 Today's Dental Clinic
 
 A responsive ReactJS website for a fictional dental clinic. Built with React Router, Axios (optional), and custom CSS for a clean and professional look.
 
@@ -16,7 +16,8 @@ A responsive ReactJS website for a fictional dental clinic. Built with React Rou
 - 📦 Easy deployment to Netlify
 
 ---
-echo "## 📁 Folder Structure
+
+## 📁 Folder Structure
 
 \`\`\`
 dental-clinic/
@@ -30,7 +31,7 @@ dental-clinic/
 ├── README.md
 ├── package.json
 └── .gitignore
-\`\`\`" >> README.md
+\`\`\`
 
 ---
 
@@ -103,6 +104,4 @@ npm run build
 
 ## 👨‍⚕️ Author
 
-Built with ❤️ by [Guntoju Likhitha]
-
-
+Built with ❤️ by [Guntoju Likhitha]" > README.md

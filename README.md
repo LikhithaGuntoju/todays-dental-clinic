@@ -4,7 +4,8 @@ A modern, responsive dental clinic website built using **ReactJS**, featuring pa
 
 ## 📸 Preview
 
-![Website Screenshot](public/preview.png) <!-- Add a screenshot here -->
+![Website Screenshot](![image](https://github.com/user-attachments/assets/352b47f4-ffbc-4763-938f-9a02047d867a)
+) <!-- Add a screenshot here -->
 
 ---
 

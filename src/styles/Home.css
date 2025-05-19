@@ -1,0 +1,71 @@
+.home-page {
+    flex: 1;
+  }
+  
+  .hero-section {
+    background: url('https://images.unsplash.com/photo-1588776814546-4a865715b6d7?auto=format&fit=crop&w=1470&q=80') center center/cover no-repeat;
+    color: white;
+    padding: 6rem 0;
+    text-align: center;
+    position: relative;
+  }
+  
+  .hero-content {
+    background-color: rgba(0, 95, 115, 0.75);
+    display: inline-block;
+    padding: 2rem 3rem;
+    border-radius: 12px;
+  }
+  
+  .hero-btn {
+    display: inline-block;
+    margin-top: 1.5rem;
+    padding: 0.75rem 1.75rem;
+    background-color: #94d2bd;
+    color: #001219;
+    font-weight: 600;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .hero-btn:hover {
+    background-color: #16c29a;
+    color: white;
+  }
+  
+  .intro-section {
+    margin: 3rem 0;
+    text-align: center;
+  }
+ 
+  .services-preview {
+    
+    margin-bottom: 3rem;
+  }
+ 
+  .service-preview-card {
+    background-color: white;
+    padding: 2rem 1rem;
+    margin-bottom: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.3);
+    text-align: center;
+    transition: transform 0.3s ease;
+  }
+  
+  .service-preview-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .service-preview-card i {
+    font-size: 3rem;
+    color: #005f73;
+    margin-bottom: 0.5rem;
+  }
+  
+  .service-preview-card h4 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+  }
+  

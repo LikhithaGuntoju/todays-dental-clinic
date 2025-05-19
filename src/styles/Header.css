@@ -1,0 +1,31 @@
+.main-header {
+    background-color: #005f73;
+    color: white;
+    padding: 1rem 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .main-header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+  
+  .main-header nav a {
+    color: white;
+    margin-left: 1.5rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .main-header nav a:hover {
+    color: #94d2bd;
+  }
+  

@@ -22,24 +22,24 @@ A modern, responsive dental clinic website built using **ReactJS**, featuring pa
 ## 📁 Folder Structure
 
 \`\`\`
-dental-clinic/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── Header.jsx
-│   │   ├── Footer.jsx
-│   │   └── FAQ.jsx
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── About.jsx
-│   │   ├── Services.jsx
-│   │   └── Contact.jsx
-│   ├── styles/
-│   │   ├── App.css
-│   │   └── ...
-│   ├── App.jsx
-│   └── index.js
+-dental-clinic/
+-├── public/
+-├── src/
+-│   ├── assets/
+-│   ├── components/
+-│   │   ├── Header.jsx
+-│   │   ├── Footer.jsx
+-│   │   └── FAQ.jsx
+-│   ├── pages/
+-│   │   ├── Home.jsx
+-│   │   ├── About.jsx
+-│   │   ├── Services.jsx
+-│   │   └── Contact.jsx
+-│   ├── styles/
+-│   │   ├── App.css
+-│   │   └── ...
+-│   ├── App.jsx
+-│   └── index.js
 \`\`\`
 
 ---

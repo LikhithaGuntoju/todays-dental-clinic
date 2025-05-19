@@ -1,7 +1,3 @@
-cd dental-clinic  # Navigate to your project folder
-
-# Create README.md file and insert content
-cat > README.md << 'EOF'
 # 🦷 Today's Dental Clinic Website
 
 A modern, responsive dental clinic website built using **ReactJS**, featuring pages like Home, About, Services, Contact, and FAQ.

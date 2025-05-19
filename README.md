@@ -19,7 +19,7 @@ A responsive ReactJS website for a fictional dental clinic. Built with React Rou
 
 ## 📁 Folder Structure
 
-\`\`\`
+
 dental-clinic/   
 ├── public/   
 ├── src/   
@@ -31,7 +31,7 @@ dental-clinic/
 ├── README.md   
 ├── package.json   
 └── .gitignore   
-\`\`\`
+
 
 - \`components/\` – Common UI elements like Navbar, Footer, FAQ, etc.  
 - \`pages/\` – Page components such as Home, About, Services, Contact  

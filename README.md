@@ -1,4 +1,4 @@
-echo "# 🦷 Today's Dental Clinic
+# 🦷 Today's Dental Clinic
 
 A responsive ReactJS website for a fictional dental clinic. Built with React Router, Axios (optional), and custom CSS for a clean and professional look.
 
@@ -108,4 +108,4 @@ npm run build
 
 ## 👨‍⚕️ Author
 
-Built with ❤️ by [Guntoju Likhitha]" > README.md
+Built with ❤️ by [Guntoju Likhitha]"

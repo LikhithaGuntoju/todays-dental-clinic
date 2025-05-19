@@ -80,7 +80,7 @@ App will run at: [http://localhost:3000](http://localhost:3000)
 Your live site will be available at:
 
 \`\`\`
-[https://your-custom-name.netlify.app](https://todays-dental-clinic.netlify.app/)
+[https://todays-dental-clinic.netlify.app](https://todays-dental-clinic.netlify.app/)
 \`\`\`
 
 ---

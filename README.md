@@ -23,15 +23,19 @@ A responsive ReactJS website for a fictional dental clinic. Built with React Rou
 dental-clinic/
 ├── public/
 ├── src/
-│   ├── components/     # Navbar, Footer, FAQ, etc.
-│   ├── pages/          # Home, About, Services, Contact
-│   ├── styles/         # CSS files for styling
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
 │   ├── App.jsx
 │   ├── index.js
 ├── README.md
 ├── package.json
 └── .gitignore
 \`\`\`
+
+- \`components/\` – Common UI elements like Navbar, Footer, FAQ, etc.  
+- \`pages/\` – Page components such as Home, About, Services, Contact  
+- \`styles/\` – All CSS files for custom styling  
 
 ---
 

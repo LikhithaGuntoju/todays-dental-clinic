@@ -44,7 +44,7 @@ dental-clinic/
 ### Step 1: Clone the Repository
 
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/dental-clinic.git
+git clone https://github.com/LikhithaGuntoju/dental-clinic.git
 cd dental-clinic
 \`\`\`
 
@@ -80,7 +80,7 @@ App will run at: [http://localhost:3000](http://localhost:3000)
 Your live site will be available at:
 
 \`\`\`
-https://your-custom-name.netlify.app
+[https://your-custom-name.netlify.app](https://todays-dental-clinic.netlify.app/)
 \`\`\`
 
 ---

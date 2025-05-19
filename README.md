@@ -68,16 +68,16 @@ App will run at: [http://localhost:3000](http://localhost:3000)
 
 ### Step-by-step:
 
-1. Push your project to GitHub
-2. Visit: [https://app.netlify.com/](https://app.netlify.com/)
-3. Click **\"Add new site\" > \"Import from GitHub\"**
-4. Connect your GitHub and select the repo
-5. Set:
-   - Build Command: \`npm run build\`
-   - Publish Directory: \`build\`
-6. Click **Deploy**
+1. Push your project to GitHub   
+2. Visit: [https://app.netlify.com/](https://app.netlify.com/)   
+3. Click **\"Add new site\" > \"Import from GitHub\"**      
+4. Connect your GitHub and select the repo   
+5. Set:   
+   - Build Command: \`npm run build\`   
+   - Publish Directory: \`build\`   
+6. Click **Deploy**   
 
-Your live site will be available at:
+Your live site will be available at:   
 
 \`\`\`
 [https://todays-dental-clinic.netlify.app](https://todays-dental-clinic.netlify.app/)

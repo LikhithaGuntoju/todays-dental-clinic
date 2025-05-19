@@ -24,7 +24,7 @@ dental-clinic/
 ├── public/   
 ├── src/   
 │   ├── components/      
-│   ├── pages/      
+│   ├── pages/   
 │   ├── styles/   
 │   ├── App.jsx   
 │   ├── index.js   

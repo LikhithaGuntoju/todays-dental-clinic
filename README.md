@@ -87,13 +87,13 @@ Your live site will be available at:
 
 ## 🧠 GitHub Setup (First Time)
 
-\`\`\`bash
-git init
-git add .
-git commit -m \"Initial commit\"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/dental-clinic.git
-git push -u origin main
+\`\`\`bash   
+git init   
+git add .   
+git commit -m \"Initial commit\"   
+git branch -M main   
+git remote add origin https://github.com/YOUR_USERNAME/dental-clinic.git   
+git push -u origin main   
 \`\`\`
 
 ---
